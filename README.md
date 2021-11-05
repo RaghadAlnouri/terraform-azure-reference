@@ -133,7 +133,7 @@ Here are some questions that you can ask yourself for before writing a module:
   - Will the resources be deployed all together all the time?
   - Will the resources be updated all together all the time?
   - Will the resources be destroyed all together all the time?
-- Is there multiple resources involved? If there is just one, the module is probably useless
+-  ??? not that true in realiry Is there multiple resources involved? If there is just one, the module is probably useless
 - From an architectural/functionnal perspective, does it makes sense to group all these resources together? (network, compute, storage etc...)
 - Does any of the resource involved depend from a resource that is not in this module?
 
